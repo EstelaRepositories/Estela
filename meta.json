@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "version": "1.0.2",
+      "releaseDate": "2024-10-26",
+      "changelog": "+ Added QoL mods\n+ Added updater\n+ Cleaned up shaderpacks folder & made presets"
+    }
+  ]
+}
