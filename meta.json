@@ -3,9 +3,16 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "version": "1.0.2",
-      "releaseDate": "2024-10-26",
-      "changelog": "+ Added QoL mods\n+ Added updater\n+ Cleaned up shaderpacks folder & made presets"
+      "id": "1.0.2",
+      "releasedAt": 1698230400000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://github.com/EstelaRepositories/Estela/releases/download/1.0.2/Estela.s.Cobblemon.1.0.2.mrpack",
+          "curseforge": "https://github.com/EstelaRepositories/Estela/releases/download/1.0.2/Estela.s.Cobblemon-1.0.2.zip",
+          "generic": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.2"
+        }
+      },
+      "updateType": "major"
     }
   ]
 }
