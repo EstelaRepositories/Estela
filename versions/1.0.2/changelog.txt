@@ -1,3 +1,0 @@
-+ Added QoL mods
-+ Added updater
-+ Cleaned up shaderpacks folder & made presets
