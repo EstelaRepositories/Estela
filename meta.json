@@ -25,6 +25,18 @@
         }
       },
       "updateType": "minor"
+    },
+    {
+      "id": "1.0.1-beta",
+      "releasedAt": 1698969600000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.1-beta",
+          "curseforge": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.1-beta",
+          "generic": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.1-beta"
+        }
+      },
+      "updateType": "major"
     }
   ]
 }
