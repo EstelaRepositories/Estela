@@ -3,7 +3,7 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "1.0.2",
+      "id": "1.0.2-fabric",
       "releasedAt": 1698230400000,
       "promotions": {
         "downloads": {
@@ -15,7 +15,7 @@
       "updateType": "major"
     },
     {
-      "id": "1.0.3",
+      "id": "1.0.3-fabric",
       "releasedAt": 1698835200000,
       "promotions": {
         "downloads": {
