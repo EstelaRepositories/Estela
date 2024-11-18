@@ -1,1 +1,2 @@
-
+* Updating no longer deletes "saves" folder
+* Fixed tooltip in main menu
