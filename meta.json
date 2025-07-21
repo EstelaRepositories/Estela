@@ -3,64 +3,16 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "1.0.2-fabric",
-      "releasedAt": 1698230400000,
+      "id": "1.0.0-release",
+      "releasedAt": 1697625600000,
       "promotions": {
         "downloads": {
-          "modrinth": "https://github.com/EstelaRepositories/Estela/releases/download/1.0.2/Estela.s.Cobblemon.1.0.2.mrpack",
-          "curseforge": "https://github.com/EstelaRepositories/Estela/releases/download/1.0.2/Estela.s.Cobblemon-1.0.2.zip",
-          "generic": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.2"
+          "modrinth": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.0-release",
+          "curseforge": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.0-release",
+          "generic": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.0-release"
         }
       },
-      "updateType": "minor"
-    },
-    {
-      "id": "1.0.3-fabric",
-      "releasedAt": 1698835200000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://github.com/EstelaRepositories/Estela/releases/download/1.0.3/Estela.s.Cobblemon.1.0.3.mrpack",
-          "curseforge": "https://github.com/EstelaRepositories/Estela/releases/download/1.0.3/Estela.s.Cobblemon-1.0.3.zip",
-          "generic": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.3"
-        }
-      },
-      "updateType": "minor"
-    },
-    {
-      "id": "1.0.1-beta",
-      "releasedAt": 1698969600000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.1-beta",
-          "curseforge": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.1-beta",
-          "generic": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.1-beta"
-        }
-      },
-      "updateType": "minor"
-    },
-    {
-      "id": "1.0.2-beta",
-      "releasedAt": 1699574400000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.2-beta",
-          "curseforge": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.2-beta",
-          "generic": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.2-beta"
-        }
-      },
-      "updateType": "minor"
-    },
-    {
-      "id": "1.0.3-beta",
-      "releasedAt": 1731792000000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.3-beta",
-          "curseforge": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.3-beta",
-          "generic": "https://github.com/EstelaRepositories/Estela/releases/tag/1.0.3-beta"
-        }
-      },
-      "updateType": "minor"
+      "updateType": "release"
     }
   ]
 }
